@@ -8,7 +8,7 @@
     tools:context="com.meet.whatsappbackupremover.MainActivity">
 
     <android.support.design.widget.FloatingActionButton
-        android:id="@+id/fab"
+        android:id="@+id/delete"
         android:layout_height="300dp"
         android:layout_width="300dp"
         android:backgroundTint="#88FF88"
